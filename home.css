@@ -36,8 +36,8 @@
     background-position: center; 
     background-repeat: no-repeat; 
     box-shadow: 0 6px 12px rgba(0,0,0,0.25); 
-    border: 6px solid rgba(255, 255, 255, 0.1); /* Fallback for --img-border */
-    filter: grayscale(100%) contrast(0.98); /* Makes them all black & white for a clean look */
+    border: 6px solid rgba(255, 255, 255, 0.1); 
+    filter: grayscale(100%) contrast(0.98); 
     transition: filter 0.3s ease;
 }
 
